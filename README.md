@@ -25,3 +25,31 @@ A beautiful and responsive Login/Signup form with Light/Dark mode toggle built u
 
 ## 📂 Folder Structure
 
+Responsive-Login-Signup-Page-with-Light-Dark-Mode-HTML-CSS-JavaScript/
+│
+├── index.html           # Landing page or redirect page
+├── styles.css           # All styling (shared across pages)
+├── script.js            # Optional JS interactivity
+
+
+## 📥 How to Use
+
+1. Clone the repository:
+   git clone https://github.com/DevSahilCode31/Responsive-Login-Signup-Page-with-Light-Dark-Mode-HTML-CSS-JavaScript
+Open index.html in your browser.
+
+Customize the design and integrate with backend as needed.
+
+🙌 Contribution
+Feel free to fork this repo, improve the design, or use it in your own projects. Pull requests are welcome!
+
+📄 License
+This project is licensed under the MIT License.
+
+Don't forget to star ⭐ the repo if you find it helpful!
+
+Let me know if you'd like to include:
+- **Live demo link (https://modern-login-signup-form-ui-design.netlify.app/)**
+  
+#LoginUI #SignupForm #WebDesign #HTMLCSSJS #FrontendDevelopment
+

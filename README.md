@@ -18,7 +18,6 @@ A beautiful and responsive Login/Signup form with Light/Dark mode toggle built u
 ![Screenshot 2025-06-01 162514](https://github.com/user-attachments/assets/b07010c1-316c-4888-a8c7-26760bc6c13d)
 
 
-
 ## 🛠️ Technologies Used
 
 - **HTML5**
@@ -51,7 +50,7 @@ This project is licensed under the MIT License.
 Don't forget to star ⭐ the repo if you find it helpful!
 
 Let me know if you'd like to include:
-- **Live demo link (https://modern-login-signup-form-ui-design.netlify.app/)**
+- **Live demo link (https://light-dark-login-signup-ui.netlify.app/)**
   
 #LoginUI #SignupForm #WebDesign #HTMLCSSJS #FrontendDevelopment
 

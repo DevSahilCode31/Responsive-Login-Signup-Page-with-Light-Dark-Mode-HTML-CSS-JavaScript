@@ -15,6 +15,8 @@ A beautiful and responsive Login/Signup form with Light/Dark mode toggle built u
 ## 📸 Preview
 
 ![Screenshot 2025-06-01 162528](https://github.com/user-attachments/assets/3e0f1d02-aa48-4d40-bb60-a4b1eba20f56)
+![Screenshot 2025-06-01 162514](https://github.com/user-attachments/assets/b07010c1-316c-4888-a8c7-26760bc6c13d)
+
 
 
 ## 🛠️ Technologies Used
